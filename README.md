@@ -7,7 +7,7 @@ The companion app allows the user to set three limits: low, medium and high. The
 
 ## Screenshots
 
-[(Watch the demo on YouTube)][https://youtu.be/B6X5S3R9Lao]
+[(Watch the demo on YouTube)][video.mp4]
 
 ## Schematics
 
