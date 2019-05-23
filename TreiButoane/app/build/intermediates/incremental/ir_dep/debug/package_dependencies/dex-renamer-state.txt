@@ -1,0 +1,4 @@
+#Thu May 23 08:31:56 EEST 2019
+base.0=C\:\\Users\\ratiu\\Documents\\Mobile\\Android Things\\TreiButoane\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

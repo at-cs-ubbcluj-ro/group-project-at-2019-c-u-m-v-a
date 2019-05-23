@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">614387807712-ep39lmn9co02dhp6e04rnbptl31egc0m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://android-things-project-b2086.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">614387807712</string>
+    <string name="google_api_key" translatable="false">AIzaSyBGvoX6naX8G2ixE_x92QhCxY8GLYDLeYU</string>
+    <string name="google_app_id" translatable="false">1:614387807712:android:bad52b5d238d5eec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGvoX6naX8G2ixE_x92QhCxY8GLYDLeYU</string>
+    <string name="google_storage_bucket" translatable="false">android-things-project-b2086.appspot.com</string>
+    <string name="project_id" translatable="false">android-things-project-b2086</string>
+</resources>

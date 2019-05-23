@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "614387807712",
+    "firebase_url": "https://android-things-project-b2086.firebaseio.com",
+    "project_id": "android-things-project-b2086",
+    "storage_bucket": "android-things-project-b2086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614387807712:android:bad52b5d238d5eec",
+        "android_client_info": {
+          "package_name": "com.example.andreea.treibutoane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614387807712-ep39lmn9co02dhp6e04rnbptl31egc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvoX6naX8G2ixE_x92QhCxY8GLYDLeYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614387807712-ep39lmn9co02dhp6e04rnbptl31egc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614387807712:android:d4eeebe7accdf1e9",
+        "android_client_info": {
+          "package_name": "com.example.ratiu.atproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614387807712-ep39lmn9co02dhp6e04rnbptl31egc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGvoX6naX8G2ixE_x92QhCxY8GLYDLeYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614387807712-ep39lmn9co02dhp6e04rnbptl31egc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
