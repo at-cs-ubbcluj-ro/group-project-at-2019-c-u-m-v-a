@@ -1,9 +1,9 @@
-# Cloud Doorbell
+# Noise Level Monitoring
 
-The Android Things Doorbell sample demonstrates how to create a “smart” doorbell.
-The sample captures a button press from a user, obtains an image via a camera peripheral,
-processes the image data using Google’s Cloud Vision API, and uploads the image, Cloud Vision
-annotations and metadata to a Firebase database where it can be viewed by a companion app.
+The Android Things Noise Level Monitoring app allows users to observe the noise levels in a certain area.
+The implementation proposed uses a Loudity sensor in order to measure the impact on the sensor. The value measured is then uploaded to a remote Firebase database.
+The companion app presents a list of the measured values saved in the database. Because of this, the mobile app does not have to be in the proximity of the sensor, but rather have access to the database used by the Android Things app.
+The companion app allows the user to set three limits: low, medium and high. The list items will be colored according to these set limits, in order to present an accurate display of the noise levels perceived by the user. 
 
 ## Screenshots
 
