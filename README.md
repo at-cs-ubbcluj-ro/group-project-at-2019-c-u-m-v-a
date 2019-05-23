@@ -7,7 +7,7 @@ annotations and metadata to a Firebase database where it can be viewed by a comp
 
 ## Screenshots
 
-[(Watch the demo on YouTube)][demo-yt]
+[(Watch the demo on YouTube)][https://youtu.be/B6X5S3R9Lao]
 
 ## Schematics
 
